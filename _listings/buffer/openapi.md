@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Buffer
 x-complete: 1
@@ -381,4 +380,3 @@ paths:
           description: OK
       tags:
       - UsermediaTypeExtension
----

@@ -4,7 +4,7 @@ url: buffer.streamdata.gallery
 tag: Buffer
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: buffer
 github_branch: master
 collections:

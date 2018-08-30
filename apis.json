@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Buffer",
+	"description": "This is a repository of buffer APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/buffer.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://buffer.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Buffer",
+			"x-api-slug": "buffer",
+			"description": "Buffer is an intuitive social media management platform trusted by brands, businesses, agencies, and individuals to help drive social media results.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/994-buffer.jpg",
+			"humanURL": "http://bufferapp.com",
+			"baseURL": "https://api.bufferapp.com//1/",
+			"tags": "Buffer",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/buffer/master/_listings/buffer/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Buffer",
+	"include": [
+		{
+			"name": "Buffer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/buffer/master/_listings/buffer/apis.yaml"
+		}
+	]
+}
